@@ -1,0 +1,2 @@
+1. Static testing 
+2. Dynamic testing 
